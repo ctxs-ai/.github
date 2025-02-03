@@ -7,6 +7,6 @@ ctxs.ai is a community-curated registry of context windows.
 
 ## Links
 
-Main repo: https://github.com/ctxs-ai/ctxs.ai
-MCP server: soon ✨
-CLI Installer: soon ✨
+- Main repo: https://github.com/ctxs-ai/ctxs.ai
+- MCP server: soon ✨
+- CLI Installer: soon ✨
